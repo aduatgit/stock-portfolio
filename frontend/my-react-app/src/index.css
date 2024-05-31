@@ -78,21 +78,11 @@ code {
 
 .App {
   margin-top: 5em;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-  gap: 2em;
 }
 
 .dataCard {
   padding: 1em 1em;
   background-color: white;
   border-radius: 0.5em;
-  text-align: left;
   margin: 0em 1em;
-  aspect-ratio: 16/9;
-}
-
-.dataCard:first-child {
-  grid-column: 1/-2;
 }
