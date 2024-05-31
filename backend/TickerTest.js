@@ -1,5 +1,5 @@
-import yahooFinance from "yahoo-finance2";
-import fs from "fs";
+const yahooFinance = require("yahoo-finance2").default;
+const fs = require("fs");
 
 async function ticker() {
   const query = "AAPL";
