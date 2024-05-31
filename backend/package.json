@@ -1,6 +1,6 @@
 {
-  "type": "module",
   "dependencies": {
+    "express": "^4.19.2",
     "yahoo-finance2": "^2.11.3"
   }
 }
