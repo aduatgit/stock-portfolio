@@ -24,7 +24,7 @@
 
 # generated data
 
-/frontend/my-react-app/src/data
+/frontend/my-react-app/src/data/*
 /backend/.env
 /backend/node_modules
 
